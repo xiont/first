@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+.axis path,
+	.axis line{
+		fill: none;
+		stroke: #09C;
+		shape-rendering: crispEdges;
+	}
+
+	.axis text {
+		font-family: sans-serif;
+		font-size: 10px;
+	}
+
+	.MyRect {
+		fill: steelblue;
+	}
+
+	.MyText {
+		fill: #003;
+		text-anchor: middle;
+		font-family:楷体, sans-serif;
+		font-size: 18px;
+	}
+	.MyText2 {
+		fill: black;
+		text-anchor: middle;
+		font-family:黑体, sans-serif;
+		font-weight:bold;
+		font-size: 25px;
+	}
+	.MyCircle
+	{
+		fill: blue;
+		filter:alpha(opacity=50);
+		-moz-opacity:0.5;  
+        -khtml-opacity: 0.5; 
+        opacity: 0.7;  
+		}
+	.MyCircle2
+	{
+		fill: blue;
+		filter:alpha(opacity=50);
+		-moz-opacity:0.5;  
+        -khtml-opacity: 0.5;  
+        opacity: 0.7;  
+		}
+	.MyCircle3
+	{
+		fill: blue;
+		filter:alpha(opacity=50);
+		-moz-opacity:0.5;  
+        -khtml-opacity: 0.5;  
+        opacity: 0.7;  
+		}
+
